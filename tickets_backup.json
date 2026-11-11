@@ -1,0 +1,26 @@
+[
+    {
+        "Ticket ID": "100",
+        "Title": "Internet Down",
+        "Description": "The internet isn't working! I need this fixed ASAP!!! It's affecting production which is completely unacceptable! We are a 24x7 company that relies on our operations being uninterrupted. ",
+        "Priority": "critical",
+        "Status": "open",
+        "Assigned Technician": "Jessica Brown"
+    },
+    {
+        "Ticket ID": "101",
+        "Title": "server unreachable",
+        "Description": "I can't reach the server at 100.72.210.58. Since this is our DR site, it's not a critical matter but I would appreciate someone looking at it as soon as possible. We would like to ensure this server is up and running.",
+        "Priority": "pending",
+        "Status": "resolved",
+        "Assigned Technician": "John Jacobs"
+    },
+    {
+        "Ticket ID": "102",
+        "Title": "need ip added",
+        "Description": "I need our on-prem prod server to reach a printer at the Milwauke location.",
+        "Priority": "high",
+        "Status": "open",
+        "Assigned Technician": "Santa Claus"
+    }
+]
